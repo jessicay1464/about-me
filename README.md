@@ -27,3 +27,11 @@ Period 8: Lunch
 
 period 9: Yoga 
 
+##### Hobbies
+
+Art (painting, sketching)
+
+Listening to music
+
+Writing chinese
+
