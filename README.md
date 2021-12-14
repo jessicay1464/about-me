@@ -25,7 +25,7 @@ Period 7: Algebra 2
 
 Period 8: Lunch
 
-period 9: Yoga 
+Period 9: Yoga 
 
 ##### Hobbies
 
