@@ -1,6 +1,6 @@
 # about-me
 This is a repo all about me.  
-It tell who I am and what I do everyday on the weekend.
+It tell who I am and what I do everyday on the weekday and my hobbies.
 
 **Name**: My name is Jessica Yang.
 
