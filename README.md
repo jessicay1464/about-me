@@ -42,5 +42,5 @@
 3. Writing chinese
 
 ---  
-This is the link to [Github](https://github.com/).
+This is the link to [Github](https://github.com/) where I can see all my work.
 
