@@ -1,4 +1,6 @@
 # about-me
+This is a repo all about me.  
+It tell who I am and what I do everyday on the weekend.
 
 **Name**: My name is Jessica Yang.
 
