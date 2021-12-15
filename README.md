@@ -1,4 +1,5 @@
 # about-me
+
 **Name**: My name is Jessica Yang.
 
 **School**: I am now in the _High school of Telecommunication Arts and Technology_.
@@ -7,31 +8,39 @@
 
 **Bio**: I am born in Brooklyn, New York.
 
-#### Schedule
+---
 
-Period 1: Chemistry
+## Schedule
+* This is my school schedule everyday.
 
-Period 2: Global History
+  * Period 1: Chemistry
 
-Period 3: English 3
+  * Period 2: Global History
 
-Period 4: SEP (Software Engineering Program)
+  * Period 3: English 3
 
-Period 5: BHP (Big History Project)
+  * Period 4: SEP (Software Engineering Program)
 
-Period 6: Spanish
+  * Period 5: BHP (Big History Project)
 
-Period 7: Algebra 2
+  * Period 6: Spanish
 
-Period 8: Lunch
+  * Period 7: Algebra 2
 
-Period 9: Yoga 
+  * Period 8: Lunch
 
-#### Hobbies
+  * Period 9: Yoga 
 
-* Art (painting, sketching)
+---
 
-* Listening to music
+## Hobbies
 
-* Writing chinese
+1. Art (painting, sketching)
+
+2. Listening to music
+
+3. Writing chinese
+
+---  
+This is the link to [Github](https://github.com/).
 
