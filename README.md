@@ -1,13 +1,13 @@
 # about-me
 **Name**: My name is Jessica Yang.
 
-**School**: I am now in the High school of Telecommunication Arts and Technology.
+**School**: I am now in the _High school of Telecommunication Arts and Technology_.
 
 **Email**: My email is jessicay1464@hstat.org.
 
 **Bio**: I am born in Brooklyn, New York.
 
-##### Schedule
+#### Schedule
 
 Period 1: Chemistry
 
@@ -27,7 +27,7 @@ Period 8: Lunch
 
 Period 9: Yoga 
 
-##### Hobbies
+#### Hobbies
 
 * Art (painting, sketching)
 
