@@ -29,9 +29,9 @@ Period 9: Yoga
 
 ##### Hobbies
 
-Art (painting, sketching)
+* Art (painting, sketching)
 
-Listening to music
+* Listening to music
 
-Writing chinese
+* Writing chinese
 
