@@ -1,8 +1,8 @@
-# about-me
+cd abo  # about-me
 This is a repo all about me.  
 It tell who I am and what I do everyday on the weekday and my hobbies.
 
-**Name**: My name is Jessica Yang.
+**Name**: My name is Jessica Yang and I am 15 year old. Also single so sad ???? (what am I saying?)
 
 **School**: I am now in the _High school of Telecommunication Arts and Technology_.
 
@@ -21,7 +21,7 @@ It tell who I am and what I do everyday on the weekday and my hobbies.
 
   * Period 3: English 3
 
-  * Period 4: SEP (Software Engineering Program)
+  * Period 4: SEP (Software Engineering Program) with my best friend jimin from BTS!!!
 
   * Period 5: BHP (Big History Project)
 
@@ -31,17 +31,19 @@ It tell who I am and what I do everyday on the weekday and my hobbies.
 
   * Period 8: Lunch
 
-  * Period 9: Yoga 
+  * Period 9: Yoga with my best friend jimin from BTS!!!
 
 ---
 
 ## Hobbies
 
-1. Art (painting, sketching)
+1. Art (painting, sketching) 
 
-2. Listening to music
+2. Listening to music 
 
-3. Writing chinese
+3. Writing chinese 
+
+4. Jogging
 
 ---  
 This is the link to [Github](https://github.com/) where I can see all my work.
