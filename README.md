@@ -2,7 +2,7 @@ cd abo  # about-me
 This is a repo all about me.  
 It tell who I am and what I do everyday on the weekday and my hobbies.
 
-**Name**: My name is Jessica Yang and I am 15 year old. Also single so sad ????
+**Name**: My name is Jessica Yang and I am 15 year old. Also single so sad ???? (what am I saying?)
 
 **School**: I am now in the _High school of Telecommunication Arts and Technology_.
 
